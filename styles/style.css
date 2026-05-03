@@ -244,6 +244,8 @@ main {
 
 .about__column {
   min-height: 595px;
+  margin-left: 25px;
+  margin-top: 5px;
 }
 
 .about__logo {
@@ -255,11 +257,6 @@ main {
   border-radius: 1000px;
   display: flex;
   justify-content: center;
-}
-
-.about__column {
-  margin-left: 25px;
-  margin-top: 5px;
 }
 
 .about__title {
